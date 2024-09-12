@@ -1,16 +1,7 @@
-## Olá! Eu sou a camila Rodrigues
 
-<div>
- <img align="center" alt="Cami-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- <img align="center" alt="Cami-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
- </div>
- 
- ##
  ## Olá! Eu sou a camila Rodrigues
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff91a4&height=120&section=header"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Caroline+Barbosa;I'm+25+years+old;I+from+Brazil;I+Graduated+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
     <a href="https://github.com/Camilardrigues">
