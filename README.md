@@ -5,12 +5,9 @@
 
 <div align="center">  
     <a href="https://github.com/Camilardrigues">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camilardrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilardrigues&layout=compact&langs_count=7&theme=dark"/>
+  <img height="45em" src="https://github-readme-stats.vercel.app/api?username=Camilardrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="31em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camilardrigues&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=carolbarbosa101&bg_color=0d1117&color=fb047b&line=fb7ecd&point=ffbde0&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <p align="center">
